@@ -29,9 +29,16 @@ product_category_name_translation.csv
 Various .png images showing insights like sales trends, order statuses, and geographic distributions.
 Highlights
 Customer Analysis: Distribution of customer counts by cities and states, analysis of customer demographics.
+![Distribution of Customer Count by Cities](https://github.com/selinolgun/Exploratory-Data-Analysis-on-E-Commerce-Data/assets/126022358/e09f9694-90d0-4c1f-b4bc-f2a77d46905a)
+
 Sales Trends: Monthly sales trends, seasonal sales patterns, and product category analysis.
+![Seasonal Sales](https://github.com/selinolgun/Exploratory-Data-Analysis-on-E-Commerce-Data/assets/126022358/995107ba-2b5c-4efc-afa2-ace3273cf773)
+
 Payment Analysis: Analysis of different payment types, payment values, and their distribution.
+![The Effect of Number of Installments on Payment Value](https://github.com/selinolgun/Exploratory-Data-Analysis-on-E-Commerce-Data/assets/126022358/3db97839-4e58-408c-96df-999f4e4ba7dc)
+
 Geolocation Insights: Geographic distribution of sellers, order density by location, and delivery times.
+![Correlation between Geolocation and Delivery Times](https://github.com/selinolgun/Exploratory-Data-Analysis-on-E-Commerce-Data/assets/126022358/56842745-56ae-4924-a9bc-9b537d9589ee)
 
 🔍Usage:
 git clone https://github.com/selinolgun/Exploratory-Data-Analysis-on-E-Commerce-Data.git
